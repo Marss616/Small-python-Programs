@@ -1,4 +1,4 @@
-# this program will use date time as an encryption method.
+# this program will use date time as an encryption method, via shift key change.
 
 import datetime
 
