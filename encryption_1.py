@@ -5,4 +5,6 @@ import datetime
 # def encrypt(text):
 
 
-print(datetime.datetime.now())
+date = datetime.datetime.now()
+date_split = str(date).split(" ")
+print(date_split)
